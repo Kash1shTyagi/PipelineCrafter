@@ -1,7 +1,7 @@
-# c
+# PipelineCrafter
 
 ## Overview
-AuPipelineCraftertoFlowML is a Kubeflow-based automated pipeline for digit recognition. It streamlines model deployment, evaluation, and scaling. The project initially focuses on digit recognition but will be extended to support any ML model with automated pipeline generation.
+PipelineCrafter is a Kubeflow-based automated pipeline for digit recognition. It streamlines model deployment, evaluation, and scaling. The project initially focuses on digit recognition but will be extended to support any ML model with automated pipeline generation.
 
 ## Features
 - **Digit Recognition Pipeline**: Uses a trained model to classify handwritten digits.
